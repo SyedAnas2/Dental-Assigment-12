@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+    height: 1000px;
+    background: rgb(255, 255, 255);
+    /* text-align: center;
+    padding: auto;
+    margin: 0%;  */
+}
+.header h1{
+    text-align: center;
+}
+.header img{
+    width: 300px;
+    height: 300px;
+}
+.nav a{
+    padding: 20px 20px;
+    
+}
+.nav{
+    text-align: center;
+}
+.mid{
+    text-align: center;
+    background: rgb(154, 224, 165);
+}
+.add{
+    margin: 20px;
+    width: 300px;
+    height: 400px;
+    background: rgb(151, 206, 173);
+}
+.New{
+    margin: 20px;
+    width: 300px;
+    height: 400px;
+    background: rgb(134, 200, 153); 
+}
+.and{
+    margin: 20px;
+    width: 300px;
+    height: 400px;
+    background: rgb(138, 196, 164);
+}
+.threebox{
+    display: flex;
+    padding: 10px 10px;
+    /* text-align: center; */
+}
